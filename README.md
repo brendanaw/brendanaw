@@ -8,7 +8,9 @@ My interests include Cryptocurrency, NFTs, Finance, Technology, Gaming, Anime, P
 I’m currently on my journey to become a Data Scientist to specialize in my area of interests which are Marketing and Finance.
 
 ⚫ **Connect with me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)]
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 (https://www.linkedin.com/in/brendanaw/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)]
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 (https://www.instagram.com/brendanaw/)
