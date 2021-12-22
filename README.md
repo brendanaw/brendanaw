@@ -20,5 +20,7 @@ I’m currently on my journey to become a Data Scientist to specialize in my are
   <a href="https://www.instagram.com/brendanaw/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
-
+    <a href="https://brendanaw.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;
+	
