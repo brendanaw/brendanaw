@@ -3,7 +3,7 @@
 <h1 align='center'>
   Welcome to my repo!
 </h1>
-Hi, I’m Brendan and I'm a Performance Marketer and Data Analyst with 3+ years of experience in Data Analytics, B2C Marketing, E-commerce, Performance Marketing, Social Media Management, Public Relations and Content Creation. 
+Hi, I’m Brendan and I'm a Growth Marketer and Data Analyst with 3+ years of experience in Data Analytics, B2C Marketing, E-commerce, Performance Marketing, Social Media Management, Public Relations and Content Creation. 
 
 My interests include Cryptocurrency, NFTs, Finance, Technology, Gaming, Anime, Photography and Videography.
 
