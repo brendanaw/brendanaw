@@ -3,11 +3,9 @@
 <h1 align='center'>
   Welcome to my repo!
 </h1>
-Hi, I’m Brendan and I'm a Growth Marketer and Data Analyst with 3+ years of experience in Data Analytics, B2C Marketing, E-commerce, Performance Marketing, Social Media Management, Public Relations and Content Creation. 
+Hi, I'm Brendan, a Singaporean content marketer, and SEO specialist who has managed remote marketing teams in E-commerce, NFTs, Crypto, Finance and E-sports companies. 
 
-My interests include Cryptocurrency, NFTs, Finance, Technology, Gaming, Anime, Photography and Videography.
-
-I’m currently on my journey to become a Data Scientist to specialize in my area of interests which are Marketing and Finance.
+I'm currently based in Phnom Penh, Cambodia, working on his family’s business while documenting his own journey and helping others build careers as content creators.
 
 ⚫ **Connect with me**
 
