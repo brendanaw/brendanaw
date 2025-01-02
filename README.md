@@ -1,24 +1,32 @@
 <img width="100%" src="https://github.com/brendanaw/brendanaw/blob/db2bddcd0aeef5f27d103148071c3853e4753664/brendan-aw-cover-art.jpg">
 
-<h1 align='center'>
+<h1 align='left'>
   Welcome to my repo!
 </h1>
-Hi, I'm Brendan, a Singaporean content marketer, and SEO specialist who has managed remote marketing teams in E-commerce, NFTs, Crypto, Finance and E-sports companies. 
 
-I'm currently based in Phnom Penh, Cambodia, working on his family’s business while documenting his own journey and helping others build careers as content creators.
+<h2>
+	Hey, I'm Brendan
+</h2>
 
-⚫ **Connect with me**
+I'm a Singaporean Millennial working abroad while documenting my solopreneurship journey and side quests online.
 
+Before this, I was a marketing executive for various 6 to 7-figure high-growth SME companies in E-commerce, Web3, Fintech, E-sports, and agencies in Singapore – But it wasn't truly fulfilling.
+
+So I started writing about stuff I already knew from my career and will continue to add new topics important to me as I go through life.
+
+<a href="https://brendanaw.com/about">More about me</a>
+
+<h2>Connect with me</h2>
   <a href="https://www.linkedin.com/in/brendanaw/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-    <a href="https://www.twitter.com/brendanaw/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
+    Linkedin
+  </a>&nbsp;
+    <a href="https://www.x.com/brendanaw/">
+    X
+  </a>&nbsp;
   <a href="https://www.instagram.com/brendanaw/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    Instagram
   </a>&nbsp;&nbsp;
-    <a href="https://brendanaw.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <a href="https://www.youtube.com/@brendanaw">
+    YouTube
   </a>&nbsp;&nbsp;
 	
