@@ -1,4 +1,4 @@
-<img width="100%" src="https://github.com/brendanaw/brendanaw/blob/main/Cover%20Art.png">
+<img width="100%" src="https://github.com/brendanaw/brendanaw/blob/db2bddcd0aeef5f27d103148071c3853e4753664/brendan-aw-cover-art.jpg">
 
 <h1 align='center'>
   Welcome to my repo!
