@@ -4,15 +4,17 @@
   Welcome to my repo!
 </h1>
 
-<h2>
-	Hey, I'm Brendan
-</h2>
+<h2>Hey, I'm Brendan</h2>
 
-I'm a Singaporean Millennial working abroad while documenting my solopreneurship journey and side quests online.
+I'm a Singaporean writer, marketer, and digital entrepreneur featured and referenced in Entrepreneur, Buffer, Hackernoon, and other popular publications.
 
-Before this, I was a marketing executive for various 6 to 7-figure high-growth SME companies in E-commerce, Web3, Fintech, E-sports, and agencies in Singapore – But it wasn't truly fulfilling.
+I also enjoy building automation workflows using no-code and low-code tools like Zapier, Make, n8n, and LLMs (GPT, Claude), glued seamlessly with various software tools and APIs.
 
-So I started writing about stuff I already knew from my career and will continue to add new topics important to me as I go through life.
+Professionally, I've spent nearly a decade in managerial marketing positions across diverse 7 to 8-figure high-growth SMEs spanning e-commerce, Web3, agency services, finance, retail, and e-sports sectors. These experiences came with unique challenges and learnings, which I like to share with my audience.
+
+These days, you'll find me working abroad while simultaneously building my online entrepreneurship journey and exploring exciting side projects—one of which is my automation agency, <a href="https://nimbflow.com">Nimbflow</a>.
+
+My work is a constant experiment in leveraging technology, creativity, and strategic thinking to push the boundaries of digital business.
 
 <a href="https://brendanaw.com/about">More about me</a>
 
