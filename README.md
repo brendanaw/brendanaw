@@ -6,7 +6,7 @@
 
 <h2>Hey, I'm Brendan</h2>
 
-I'm a Singaporean writer, marketer, and digital entrepreneur featured and referenced in Entrepreneur, Buffer, Hackernoon, and other popular publications.
+I'm a Singaporean writer, GTM engineer, and AI entrepreneur featured and referenced in Entrepreneur, Buffer, Hackernoon, and other popular publications.
 
 I also enjoy building automation workflows using no-code and low-code tools like Zapier, Make, n8n, and LLMs (GPT, Claude), glued seamlessly with various software tools and APIs.
 
