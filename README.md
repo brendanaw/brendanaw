@@ -6,11 +6,11 @@
 
 <h2>Hey, I'm Brendan</h2>
 
-I'm a Singaporean writer, GTM engineer, and AI entrepreneur featured and referenced in Entrepreneur, Buffer, Hackernoon, and other popular publications.
+I'm an AI consultant, GTM engineer, and digital entrepreneur featured and referenced in Entrepreneur, Buffer, Hackernoon, and other popular publications.
 
 I also enjoy building automation workflows using no-code and low-code tools like Zapier, Make, n8n, and LLMs (GPT, Claude), glued seamlessly with various software tools and APIs.
 
-Professionally, I've spent nearly a decade in managerial marketing positions across diverse 7 to 8-figure high-growth SMEs spanning e-commerce, Web3, agency services, finance, retail, and e-sports sectors. These experiences came with unique challenges and learnings, which I like to share with my audience.
+Professionally, I've led marketing and sales ops across diverse 7 to 8-figure high-growth SMEs spanning e-commerce, Web3, agency services, finance, retail, and e-sports sectors. These experiences came with unique challenges and learnings, which I like to share with my audience.
 
 These days, you'll find me working abroad while simultaneously building my online entrepreneurship journey and exploring exciting side projects—one of which is my automation agency, <a href="https://nimbflow.com">Nimbflow</a>.
 
